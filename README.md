@@ -1,8 +1,3 @@
-# Features
-- Added Keyboard shortcuts Control+Insert to Copy & Shift+Insert to Paste
-- Added clipboard patch to sync PRIMARY & CLIPBOARD https://st.suckless.org/patches/clipboard/ so that selected text in terminal automatically is copied to the main clipboard and can be pasted in other apps like firefox for example.
-- To be added: Scroll with Mousewheel
-
 # Luke's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
